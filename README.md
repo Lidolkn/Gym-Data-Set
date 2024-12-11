@@ -47,6 +47,7 @@ This project aims to:
 - **`sql queries/`**: SQL scripts for data cleaning, wrangling, and analysis.
   - `results sql.sql`: Contains all SQL queries used to derive insights.
 - **`Problem Statement/`**: Details the challenges and goals of the analysis.
+- - **`data-set/`**: Explaines the solutions for problem statement.
 - **`README.md`**: Project overview and documentation (this file).
 
 ---
